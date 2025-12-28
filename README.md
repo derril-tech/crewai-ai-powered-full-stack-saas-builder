@@ -1,7 +1,7 @@
 # 🚀 AI-Powered Full-Stack SaaS Builder
 **Powered by CrewAI + OpenAI**
 
-🌐 **[View Live Application](https://crewai-ai-powered-full-stack-saas-builder-cyan.vercel.app/)**
+🌐 **[View Live Application]([https://crewai-ai-powered-full-stack-saas-builder-cyan.vercel.app/])**
 
 > **Transform a high-level SaaS idea into a production-ready full-stack starter in minutes. AI agents design your database, plan your API, craft your UI, and generate complete Next.js applications—all orchestrated seamlessly.** ⚡
 
