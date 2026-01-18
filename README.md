@@ -344,8 +344,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-[Live Demo](https://crewai-ai-powered-full-stack-saas-builder-cyan.vercel.app/) 
-
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
 </div>
